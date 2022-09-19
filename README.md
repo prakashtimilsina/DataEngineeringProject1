@@ -2,7 +2,9 @@
 
 #Business Use Case: 
 
-	We have data coming to azure blob storage in json format and we need to create pipeline which will be able to convert this file into csv format and store in output folder. We will mount our databricks to output container and need to do data cleansing operations and convert into proper reporting format so that we will drive business metrics with the help of Tableau.
+	We have data coming to azure blob storage in json format and we need to create pipeline which will be able to convert this
+	file into csv format and store in output folder. We will mount our databricks to output container and need to do data 
+	cleansing operations and convert into proper reporting format so that we will drive business metrics with the help of Tableau.
   
 #Tools/Skills used
 1. Azure Data Factory
